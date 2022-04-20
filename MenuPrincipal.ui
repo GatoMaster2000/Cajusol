@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>729</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget#centralwidget{
+
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <item>
+     <widget class="QFrame" name="frame">
+      <property name="frameShape">
+       <enum>QFrame::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <layout class="QVBoxLayout" name="verticalLayout_2" stretch="1,8">
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <property name="leftMargin">
+        <number>0</number>
+       </property>
+       <property name="topMargin">
+        <number>0</number>
+       </property>
+       <property name="rightMargin">
+        <number>0</number>
+       </property>
+       <property name="bottomMargin">
+        <number>0</number>
+       </property>
+       <item>
+        <widget class="QFrame" name="frame_2">
+         <property name="maximumSize">
+          <size>
+           <width>16777215</width>
+           <height>40</height>
+          </size>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(27, 42, 54);
+</string>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <widget class="QPushButton" name="pushButton_2">
+          <property name="geometry">
+           <rect>
+            <x>980</x>
+            <y>10</y>
+            <width>31</width>
+            <height>23</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(27, 42, 54);
+border-radius:10px;</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../Downloads/feather/x.svg</normaloff>../../Downloads/feather/x.svg</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>30</width>
+            <height>30</height>
+           </size>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="pushButton_3">
+          <property name="geometry">
+           <rect>
+            <x>930</x>
+            <y>10</y>
+            <width>31</width>
+            <height>23</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(27, 42, 54);
+border-radius:10px;</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../Downloads/feather/minus.svg</normaloff>../../Downloads/feather/minus.svg</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>30</width>
+            <height>30</height>
+           </size>
+          </property>
+         </widget>
+        </widget>
+       </item>
+       <item>
+        <widget class="QFrame" name="frame_3">
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(13, 16, 17);</string>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <widget class="QPushButton" name="pushButton">
+          <property name="geometry">
+           <rect>
+            <x>30</x>
+            <y>50</y>
+            <width>371</width>
+            <height>181</height>
+           </rect>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>18</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton#pushButton{
+background-color: rgb(85, 255, 255);
+color: rgb(13, 16, 17);
+border-radius:5px;
+}
+QPushButton#pushButton:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color: rgb(69, 209, 209);
+background-position:calc(100% - 10px)center;}
+
+</string>
+          </property>
+          <property name="text">
+           <string>Menu Principal</string>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../Downloads/feather/home.svg</normaloff>../../Downloads/feather/home.svg</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>90</width>
+            <height>90</height>
+           </size>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="pushButton_6">
+          <property name="geometry">
+           <rect>
+            <x>440</x>
+            <y>50</y>
+            <width>551</width>
+            <height>181</height>
+           </rect>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>18</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton#pushButton_6{
+background-color: rgb(85, 255, 255);
+color: rgb(13, 16, 17);
+border-radius:5px;
+}
+QPushButton#pushButton_6:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color: rgb(69, 209, 209);
+background-position:calc(100% - 10px)center;}
+</string>
+          </property>
+          <property name="text">
+           <string>Mantenimiento Empleados</string>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../Downloads/feather/tool.svg</normaloff>../../Downloads/feather/tool.svg</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>90</width>
+            <height>90</height>
+           </size>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="pushButton_7">
+          <property name="geometry">
+           <rect>
+            <x>30</x>
+            <y>310</y>
+            <width>481</width>
+            <height>271</height>
+           </rect>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>18</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton#pushButton_7{
+background-color: rgb(85, 255, 255);
+color: rgb(13, 16, 17);
+border-radius:5px;
+}
+QPushButton#pushButton_7:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color: rgb(69, 209, 209);
+background-position:calc(100% - 10px)center;}
+</string>
+          </property>
+          <property name="text">
+           <string>Mantenimiento Clientes</string>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../Downloads/feather/tool.svg</normaloff>../../Downloads/feather/tool.svg</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>90</width>
+            <height>90</height>
+           </size>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="pushButton_8">
+          <property name="geometry">
+           <rect>
+            <x>600</x>
+            <y>310</y>
+            <width>391</width>
+            <height>111</height>
+           </rect>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>18</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton#pushButton_8{
+background-color: rgb(85, 255, 255);
+color: rgb(13, 16, 17);
+border-radius:5px;
+}
+QPushButton#pushButton_8:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color: rgb(69, 209, 209);
+background-position:calc(100% - 10px)center;}
+</string>
+          </property>
+          <property name="text">
+           <string>Cerrar Sesión</string>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../Downloads/feather/log-out.svg</normaloff>../../Downloads/feather/log-out.svg</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>90</width>
+            <height>90</height>
+           </size>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="pushButton_9">
+          <property name="geometry">
+           <rect>
+            <x>600</x>
+            <y>460</y>
+            <width>391</width>
+            <height>121</height>
+           </rect>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>18</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton#pushButton_9{
+background-color: rgb(85, 255, 255);
+color: rgb(13, 16, 17);
+border-radius:5px;
+}
+QPushButton#pushButton_9:pressed{
+padding-left:5px;
+padding-top:5px;
+background-color: rgb(69, 209, 209);
+background-position:calc(100% - 10px)center;}
+</string>
+          </property>
+          <property name="text">
+           <string>App Movil</string>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../Pictures/android.png</normaloff>../../Pictures/android.png</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>90</width>
+            <height>90</height>
+           </size>
+          </property>
+         </widget>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
