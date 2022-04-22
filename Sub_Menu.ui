@@ -158,7 +158,7 @@ background-color: rgb(27, 42, 54);</string>
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>Icons/chevrons-left.svg</normaloff>Icons/chevrons-left.svg</iconset>
+      <normaloff>chevrons-left.svg</normaloff>chevrons-left.svg</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -196,7 +196,7 @@ background-color: rgb(27, 42, 54);</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>Icons/Logo.svg</pixmap>
+     <pixmap>Logo.svg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>

@@ -179,7 +179,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>Icons/home.svg</normaloff>Icons/home.svg</iconset>
+            <normaloff>home.svg</normaloff>home.svg</iconset>
           </property>
           <property name="iconSize">
            <size>
@@ -222,7 +222,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>Icons/tool.svg</normaloff>Icons/tool.svg</iconset>
+            <normaloff>tool.svg</normaloff>tool.svg</iconset>
           </property>
           <property name="iconSize">
            <size>
@@ -265,7 +265,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>Icons/tool.svg</normaloff>Icons/tool.svg</iconset>
+            <normaloff>tool.svg</normaloff>tool.svg</iconset>
           </property>
           <property name="iconSize">
            <size>
@@ -308,7 +308,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>Icons/log-out.svg</normaloff>Icons/log-out.svg</iconset>
+            <normaloff>log-out.svg</normaloff>log-out.svg</iconset>
           </property>
           <property name="iconSize">
            <size>
@@ -351,7 +351,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>Icons/android.png</normaloff>Icons/android.png</iconset>
+            <normaloff>android.png</normaloff>android.png</iconset>
           </property>
           <property name="iconSize">
            <size>

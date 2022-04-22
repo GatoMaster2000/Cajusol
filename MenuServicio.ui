@@ -91,7 +91,7 @@ border-radius:10px;</string>
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>Icons/chevrons-left.svg</normaloff>Icons/chevrons-left.svg</iconset>
+      <normaloff>chevrons-left.svg</normaloff>chevrons-left.svg</iconset>
     </property>
     <property name="iconSize">
      <size>
@@ -453,7 +453,7 @@ background-position:calc(100% - 10px)center;}</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>Icons/Logo.svg</pixmap>
+     <pixmap>Logo.svg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>

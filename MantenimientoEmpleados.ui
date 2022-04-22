@@ -610,7 +610,7 @@ color: rgb(255, 255, 255);</string>
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>Icons/chevrons-left.svg</normaloff>Icons/chevrons-left.svg</iconset>
+      <normaloff>chevrons-left.svg</normaloff>chevrons-left.svg</iconset>
     </property>
     <property name="iconSize">
      <size>
