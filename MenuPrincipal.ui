@@ -179,7 +179,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>../../Downloads/feather/home.svg</normaloff>../../Downloads/feather/home.svg</iconset>
+            <normaloff>Icons/home.svg</normaloff>Icons/home.svg</iconset>
           </property>
           <property name="iconSize">
            <size>
@@ -222,7 +222,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>../../Downloads/feather/tool.svg</normaloff>../../Downloads/feather/tool.svg</iconset>
+            <normaloff>Icons/tool.svg</normaloff>Icons/tool.svg</iconset>
           </property>
           <property name="iconSize">
            <size>
@@ -265,7 +265,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>../../Downloads/feather/tool.svg</normaloff>../../Downloads/feather/tool.svg</iconset>
+            <normaloff>Icons/tool.svg</normaloff>Icons/tool.svg</iconset>
           </property>
           <property name="iconSize">
            <size>
@@ -308,7 +308,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>../../Downloads/feather/log-out.svg</normaloff>../../Downloads/feather/log-out.svg</iconset>
+            <normaloff>Icons/log-out.svg</normaloff>Icons/log-out.svg</iconset>
           </property>
           <property name="iconSize">
            <size>
@@ -351,7 +351,7 @@ background-position:calc(100% - 10px)center;}
           </property>
           <property name="icon">
            <iconset>
-            <normaloff>../../Pictures/android.png</normaloff>../../Pictures/android.png</iconset>
+            <normaloff>Icons/android.png</normaloff>Icons/android.png</iconset>
           </property>
           <property name="iconSize">
            <size>
